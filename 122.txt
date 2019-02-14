@@ -14,3 +14,5 @@ two
 three
 four
 dev add five
+dev add six
+dev add seven
